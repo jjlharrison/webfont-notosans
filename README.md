@@ -1,6 +1,6 @@
 # Noto Sans Webfont
 
-(Noto Sans)[http://www.google.com/get/noto/] as a webfont.
+[Noto Sans](http://www.google.com/get/noto/) as a webfont.
 
 ## License
 
